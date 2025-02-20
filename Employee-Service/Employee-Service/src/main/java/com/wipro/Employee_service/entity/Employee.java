@@ -1,4 +1,4 @@
-package com.wipro.Day3.entity;
+package com.wipro.Employee_service.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

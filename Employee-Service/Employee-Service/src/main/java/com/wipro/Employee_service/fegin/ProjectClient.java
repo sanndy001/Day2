@@ -1,4 +1,4 @@
-package com.wipro.Day3.fegin;
+package com.wipro.Employee_service.fegin;
 
 import com.wipro.Day3.client.Project;
 import org.springframework.cloud.openfeign.FeignClient;

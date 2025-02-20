@@ -1,4 +1,4 @@
-package com.wipro.Day3.controller;
+package com.wipro.Employee_service.controller;
 
 import com.wipro.Day3.entity.Employee;
 import com.wipro.Day3.service.EmployeeService;

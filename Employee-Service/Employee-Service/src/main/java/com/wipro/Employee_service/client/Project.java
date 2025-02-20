@@ -1,4 +1,4 @@
-package com.wipro.Day3.client;
+package com.wipro.Employee_service.client;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

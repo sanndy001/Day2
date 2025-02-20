@@ -1,4 +1,4 @@
-package com.wipro.Day3.repository;
+package com.wipro.Employee_service.repository;
 
 import com.wipro.Day3.entity.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;

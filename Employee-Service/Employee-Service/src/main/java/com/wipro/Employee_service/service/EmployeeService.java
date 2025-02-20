@@ -1,4 +1,4 @@
-package com.wipro.Day3.service;
+package com.wipro.Employee_service.service;
 
 import com.wipro.Day3.entity.Employee;
 import com.wipro.Day3.repository.EmployeeRepository;
